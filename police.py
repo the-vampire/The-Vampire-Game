@@ -1,0 +1,2 @@
+class Police(Person):
+    pass
